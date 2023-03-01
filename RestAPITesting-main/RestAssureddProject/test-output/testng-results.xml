@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-01T03:43:45Z" name="Default suite" finished-at="2023-03-01T03:43:47Z" duration-ms="1981">
+    <groups>
+    </groups>
+    <test started-at="2023-03-01T03:43:45Z" name="Default test" finished-at="2023-03-01T03:43:47Z" duration-ms="1981">
+      <class name="restAssured.project.POSTRequest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:restAssured.project.POSTRequest@71329995]" started-at="2023-03-01T03:43:45Z" name="setUp" finished-at="2023-03-01T03:43:45Z" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="createPOSTData()[pri:0, instance:restAssured.project.POSTRequest@71329995]" started-at="2023-03-01T03:43:45Z" name="createPOSTData" finished-at="2023-03-01T03:43:45Z" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOSTData -->
+        <test-method signature="testErrorLogs()[pri:0, instance:restAssured.project.POSTRequest@71329995]" started-at="2023-03-01T03:43:45Z" name="testErrorLogs" finished-at="2023-03-01T03:43:45Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testErrorLogs -->
+        <test-method is-config="true" signature="createPOSTData()[pri:0, instance:restAssured.project.POSTRequest@71329995]" started-at="2023-03-01T03:43:45Z" name="createPOSTData" finished-at="2023-03-01T03:43:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOSTData -->
+        <test-method signature="verifyResponse()[pri:0, instance:restAssured.project.POSTRequest@71329995]" started-at="2023-03-01T03:43:45Z" name="verifyResponse" finished-at="2023-03-01T03:43:47Z" duration-ms="1585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResponse -->
+      </class> <!-- restAssured.project.POSTRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
